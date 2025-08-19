@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first apnacollege demo repository
-Author Anchal Kolhe
+<br><h1>Author Anchal Kolhe </h1>
